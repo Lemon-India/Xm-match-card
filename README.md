@@ -3,4 +3,4 @@ match the card and check which pairs first
 
 
 play online :
-https://card-matching.xmshind.repl.co/
+https://xm-match-card.vercel.app/
